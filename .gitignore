@@ -42,7 +42,6 @@ node_modules/
 Thumbs.db
 
 # Project specific
-backend_backup/
 todos/
 uploads/
 

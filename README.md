@@ -3,7 +3,6 @@
 > Browser-based image editor powered by OpenCV — upload, edit, download.
 
 ![PixelAI Screenshot](./screenshot.png)
-*Screenshot placeholder — replace with actual screenshot after running the app*
 
 ## Architecture
 
